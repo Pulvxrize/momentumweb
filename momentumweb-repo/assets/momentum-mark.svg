@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Momentum</title>
+  <defs>
+    <linearGradient id="a" x1="8" y1="4" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#68A6FF"/>
+      <stop offset="1" stop-color="#397CF3"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="url(#a)"/>
+  <path d="M17 45V19h7.2L32 33.1 39.8 19H47v26h-7V30.5l-6.1 11h-3.8l-6.1-11V45h-7Z" fill="white"/>
+</svg>
